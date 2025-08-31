@@ -6,5 +6,5 @@ Script em C para automatizar a criação de arquivos para listas de exercícios.
 - GCC instalado (verifique com `gcc --version`).
 
 ## Como usar?
-  - Compile com `gcc criar-exercicios.c -o criar exercicios`
+  - Compile com `gcc criar-exercicios.c -o criar-exercicios`
   - Execute com `./criar-exercicios` e informe o número de exercícios que quer criar
